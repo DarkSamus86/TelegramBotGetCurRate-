@@ -1,0 +1,1 @@
+Rename .env.default to .env
